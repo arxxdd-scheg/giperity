@@ -1,0 +1,5 @@
+*.pth
+*.pth
+*.jpg
+*/model/
+*/data/
